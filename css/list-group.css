@@ -15,3 +15,7 @@
 .list-group-item::before {
 	content: "";
 }
+
+.list-group-item-inline {
+	display: inline-block;
+}
