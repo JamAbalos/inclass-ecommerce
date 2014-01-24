@@ -1,0 +1,17 @@
+/*
+  Colour Palette
+  - Background beige: #f2f1ed - rgb(242, 241, 237)
+  - Heading green: #5d8432 - rgb(93,132,50)
+*/
+
+.list-group {
+	list-style-type: none;
+}
+
+.list-group-item {
+	display: block;
+}
+
+.list-group-item::before {
+	content: "";
+}
