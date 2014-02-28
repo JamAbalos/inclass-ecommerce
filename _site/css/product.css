@@ -1,0 +1,15 @@
+/*
+  Colour Palette
+  - Light brown: #c7c0ae - rgb(199, 192, 174)
+*/
+
+.img-flex {
+	width: 100%;
+	display: block;
+}
+
+.product {
+	background-color: #c7c0ae;
+	border-radius: 10px;
+	padding: 1em;
+}
