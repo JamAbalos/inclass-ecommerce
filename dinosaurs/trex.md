@@ -1,7 +1,13 @@
 ---
+layout: dinosaurs
+category: dinosaurs
+title: Tyrannosaurus
+time_period: Late Cretaceous
+diet: Carnivore
+image: land-dinos/diplodocus.jpg
 ---
 
-*Tyranosaurus* is the most **feirce** donisaur that ever existed.
+*Tyrannosaurus* is the most **feirce** donisaur that ever existed.
 
 The T-Rex lived during the [Late Cretaceous Period](https://en.wikipedia.org/wiki/Late_Centaceous).
 
