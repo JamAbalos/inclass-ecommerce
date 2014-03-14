@@ -1,7 +1,6 @@
 ---
 layout: default
 title: dinosaurs
-
 ---
 
 <div class="grid">
@@ -12,3 +11,9 @@ title: dinosaurs
 		<p>All the dinosaurs that ever exsisted.</p>
 	</div>
 </div>
+
+<ul>
+	{% for dino in site.pages %}
+	<li>{{dino.url}}</li>
+	{% endfor %}
+</ul>
